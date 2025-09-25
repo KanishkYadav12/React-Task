@@ -76,8 +76,7 @@ src/
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/users-manager.git
-cd users-manager
+git clone(https://github.com/KanishkYadav12/React-Task)
 
 2. Install dependencies
 npm install
